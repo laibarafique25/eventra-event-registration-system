@@ -1,4 +1,4 @@
-# 📅 Eventra — Event Registration System
+# 📅 Eventra - Event Registration System
 
 **Eventra** is a robust PHP + MySQL based event management platform developed during my **CodeAlpha Backend Internship**. It provides a seamless experience for users to discover and register for events, while offering administrators a powerful dashboard to manage the entire ecosystem.
 
