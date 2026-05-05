@@ -18,7 +18,7 @@ $flash = $_GET['msg'] ?? '';
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Eventra — Discover Events</title>
+<title>Eventra - Discover Events</title>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -77,6 +77,6 @@ $flash = $_GET['msg'] ?? '';
   </div>
 </section>
 
-<footer class="footer">© <?= date('Y') ?> Eventra — Built for CodeAlpha Internship</footer>
+<footer class="footer">© <?= date('Y') ?> Eventra - Built by Laiba Rafique for CodeAlpha Internship</footer>
 </body>
 </html>
